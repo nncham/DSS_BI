@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Đổ dữ liệu 2", "Đổ dữ liệu 2\Đổ dữ liệu 2.dtproj", "{1655257D-1D97-4DAA-8E53-7633EC26586F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1655257D-1D97-4DAA-8E53-7633EC26586F}.Development|Default.ActiveCfg = Development
+		{1655257D-1D97-4DAA-8E53-7633EC26586F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B34AEA-DC41-4397-B16A-96D4ACB667DF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ADMIN-PC_SQLEXPRESS02 2"
+  DTS:DTSID="{CE4BD402-87BB-4EAC-A917-E381CE10FB7F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=ADMIN-PC\SQLEXPRESS02;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Đổ dữ liệu 2-{CE4BD402-87BB-4EAC-A917-E381CE10FB7F}ADMIN-PC\SQLEXPRESS02;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
