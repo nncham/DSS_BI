@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Cập nhật dữ liệu", "Cập nhật dữ liệu\Cập nhật dữ liệu.dtproj", "{151E47BC-6B46-4114-A11D-274DAA0E77CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151E47BC-6B46-4114-A11D-274DAA0E77CC}.Development|Default.ActiveCfg = Development
+		{151E47BC-6B46-4114-A11D-274DAA0E77CC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90D95AC-8FAD-4C0E-8146-E298AC35EFCE}
+	EndGlobalSection
+EndGlobal
